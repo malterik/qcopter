@@ -1,1 +1,3 @@
 Beschleunigungssensor BMA020 http://www.elv.de/3-achsen-beschleunigungssensor-3d-bs-komplettbausatz.html  6,95 €
+
+Triple-Axis Digital-Output Gyro Breakout - ITG-3200 https://www.sparkfun.com/products/11977 $24.95
